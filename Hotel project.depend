@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694106596 source:c:\users\гтящ\desktop\ll\hotel project\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
